@@ -3,7 +3,7 @@ from machine import Pin
 import time
 
 led = Pin(25, Pin.OUT)
-# create an object configured to the Pin with the Pico's LED
+# create an object configured to the Pin with the Pico LED
 
 # while loop for blinking the LED
 while True:
